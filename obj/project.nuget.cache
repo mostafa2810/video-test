@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "baUeZ466OdFkkZmTp66u9jznTw5bTWO2Aco0B6/GFnhyNhGHOFruF1tVtbpNj+zEZ+34Lut1BZ1Y6LNTtnBYqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\redaco\\source\\repos\\Compress-and-Extract-Audito-from-Mp4\\ConsoleApp19\\ConsoleApp19.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\redaco\\.nuget\\packages\\ffmpeg.autogen\\7.0.0\\ffmpeg.autogen.7.0.0.nupkg.sha512",
+    "C:\\Users\\redaco\\.nuget\\packages\\nreco.videoconverter\\1.2.1\\nreco.videoconverter.1.2.1.nupkg.sha512",
+    "C:\\Users\\redaco\\.nuget\\packages\\nreco.videoinfo\\1.2.0\\nreco.videoinfo.1.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
